@@ -1,8 +1,8 @@
 # Sorting_Visualizer
 
-A web application showcasing the inner workings of sorting algorithms.
+A web application showcasing the inner workings of sorting algorithms. <br>
 
-Implemented algorithms:
+Implemented algorithms: <br>
 
 1. Bubble sort
 2. Selection sort
@@ -11,7 +11,7 @@ Implemented algorithms:
 5. Quick sort
 6. Heap sort
 
-Features:
+Features: <br>
 
 1. Colored representation of step being executed. <br>
    1.1) Blue:default <br>
